@@ -1,1 +1,15 @@
 generated/
+
+# MNIST dataset
+model/data/
+
+# Generated datasets
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.lenet/
