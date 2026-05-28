@@ -1,0 +1,6 @@
+# Install:  pip install -r requirements.txt
+# (Use a virtualenv; see README.)
+ 
+torch>=2.0
+torchvision>=0.15
+numpy>=1.24
